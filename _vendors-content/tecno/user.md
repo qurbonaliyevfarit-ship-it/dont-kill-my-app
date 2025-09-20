@@ -1,5 +1,6 @@
 ---
-manufacturer:
+manufacturer
+:
     - tecno
 
 ---
